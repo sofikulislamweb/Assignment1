@@ -46,6 +46,7 @@ a{
 }
 .about{
     background-image: url(images/7.png);
+    background-size: cover;
     background-repeat: no-repeat;
     display: flex;
 }
