@@ -60,7 +60,8 @@ a{
 
 .about-right{
     width: 50%;
-    padding-top: 5%;
+    
+    padding: 30px;
 }
 h2{
     font-size: 36px;
